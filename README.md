@@ -96,9 +96,9 @@ Designed for embedded engineers, makers, and students, ezBLE offers a "What You 
 如果 **ezBLE** 帮助您解决了调试难题，欢迎请作者喝杯咖啡！您的支持是我持续维护和更新的动力。❤️  
 If **ezBLE** helps you, please consider buying me a coffee! Your support keeps this project alive.
 
-| Wechat Pay (微信)
+Wechat Pay (微信)
 <img src="![b612e42280f9516940344739b5676db0](https://github.com/user-attachments/assets/02efa3a2-5ca5-4f18-92e7-970f46fa5ddf)
-" width="200" alt="Alipay">
+" width="400" alt="Alipay">
 
 ---
 
