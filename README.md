@@ -96,12 +96,9 @@ Designed for embedded engineers, makers, and students, ezBLE offers a "What You 
 如果 **ezBLE** 帮助您解决了调试难题，欢迎请作者喝杯咖啡！您的支持是我持续维护和更新的动力。❤️  
 If **ezBLE** helps you, please consider buying me a coffee! Your support keeps this project alive.
 
-Wechat Pay (微信)
-
 <div align="center">
 
-<img src="![b612e42280f9516940344739b5676db0](https://github.com/user-attachments/assets/cfe65c32-64a1-4e5a-ae3d-4e906a037798)
-" width="200" alt="WeChat Pay">
+<img src="https://github.com/user-attachments/assets/cfe65c32-64a1-4e5a-ae3d-4e906a037798" width="200" alt="WeChat Pay">
 <br>
 <b>微信支付 (WeChat Pay)</b>
 
@@ -124,15 +121,4 @@ If you encounter any issues, please feel free to submit an [Issue](issues).
 **未经作者明确的书面许可，严禁将本项目代码（整体或部分）用于任何形式的商业用途**（包括但不限于付费上架、嵌入商业产品、企业内部商用等）。
 
 **The source code of this project is for personal learning, research, and technical communication only.**
-**Strictly NO commercial use (in whole or in part) is allowed without explicit written permission from the author.**
-
-### 📧 联系方式 (Contact)
-如需获取**商业授权 (Commercial Licensing)** 或有其他合作意向，请联系：
-
-Email: **Paradise_losts@163.com**  
-
----
-
-<div align="center">
-Made with ❤️ for HarmonyOS Next Developers
-</div>
+**Strictly NO commercial use (in whole or in part) is allowed without expli
