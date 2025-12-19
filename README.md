@@ -86,12 +86,10 @@ Designed for embedded engineers, makers, and students, ezBLE offers a "What You 
 
 | 连接管理 (Connection) | 示波器 (Oscilloscope) | 虚拟控台 (Console) |
 | :---: | :---: | :---: |
-| ![Connect](![1](https://github.com/user-attachments/assets/6bb44cf2-2006-4258-a9e9-188e606fb0af)
-) | ![Scope](![2](https://github.com/user-attachments/assets/5b571eca-b04e-4a2e-b6ee-d433be716fd1)
-)![Uploading 2.jpg…](![3](https://github.com/user-attachments/assets/dd191ff5-d98b-41c1-a760-74732d1d8572)
-)
- | ![Console]() |
-<!-- 请替换为实际的应用截图链接 -->
+| ![Connect](![1](https://github.com/user-attachments/assets/6bb44cf2-2006-4258-a9e9-188e606fb0af)) 
+| ![Scope](![2](https://github.com/user-attachments/assets/5b571eca-b04e-4a2e-b6ee-d433be716fd1))
+| ![Uploading 2.jpg…](![3](https://github.com/user-attachments/assets/dd191ff5-d98b-41c1-a760-74732d1d8572))
+
 
 ---
 
