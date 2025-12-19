@@ -97,8 +97,14 @@ Designed for embedded engineers, makers, and students, ezBLE offers a "What You 
 If **ezBLE** helps you, please consider buying me a coffee! Your support keeps this project alive.
 
 Wechat Pay (微信)
-<img src="![b612e42280f9516940344739b5676db0](https://github.com/user-attachments/assets/02efa3a2-5ca5-4f18-92e7-970f46fa5ddf)
-" width="400" alt="Alipay">
+
+<div align="center">
+
+<img src="![b612e42280f9516940344739b5676db0](https://github.com/user-attachments/assets/02efa3a2-5ca5-4f18-92e7-970f46fa5ddf)" width="200" alt="WeChat Pay">
+<br>
+<b>微信支付 (WeChat Pay)</b>
+
+</div>
 
 ---
 
