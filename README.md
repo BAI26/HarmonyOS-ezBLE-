@@ -100,7 +100,8 @@ Wechat Pay (微信)
 
 <div align="center">
 
-<img src="![b612e42280f9516940344739b5676db0](https://github.com/user-attachments/assets/02efa3a2-5ca5-4f18-92e7-970f46fa5ddf)" width="200" alt="WeChat Pay">
+<img src="![b612e42280f9516940344739b5676db0](https://github.com/user-attachments/assets/cfe65c32-64a1-4e5a-ae3d-4e906a037798)
+" width="200" alt="WeChat Pay">
 <br>
 <b>微信支付 (WeChat Pay)</b>
 
