@@ -3,7 +3,8 @@
 <div align="center">
 
 ![ezBLE Logo](https://via.placeholder.com/150x150.png?text=ezBLE+Logo) 
-<!-- 替换为您实际的 Logo 图片链接 -->
+<img width="1024" height="1024" alt="icon" src="https://github.com/user-attachments/assets/92b0a27a-0f09-4127-a5e6-90747d957ff0" />
+
 
 **让物联网 IoT 硬件调试更现代、更直观**  
 **Make IoT Hardware Debugging Modern & Intuitive**
