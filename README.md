@@ -10,7 +10,7 @@
 [![HarmonyOS Next](https://img.shields.io/badge/HarmonyOS-Next-0052D9?logo=harmonyos&logoColor=white)](https://developer.huawei.com/consumer/cn/harmonyos)
 [![AppGallery](https://img.shields.io/badge/AppGallery-Free_Download-C7000B?logo=huawei&logoColor=white)](#-下载与安装-download--install)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
-[![License](https://img.shields.io/badge/License-Apache%202.0-green)](./LICENSE)
+[![License](https://img.shields.io/badge/License-Non--Commercial-red)](#-版权与许可-license--contact)
 
 [简体中文](#-简介-introduction) | [English](#-introduction)
 
@@ -35,10 +35,20 @@ Designed for embedded engineers, makers, and students, ezBLE offers a "What You 
 🎉 **好消息！ezBLE 现已免费上架华为鸿蒙应用商店！**  
 🎉 **Great News! ezBLE is now available for FREE on Huawei AppGallery!**
 
-您可以直接在 HarmonyOS Next 设备上搜索 **"ezBLE"** 进行下载，体验最新功能。
+您可以直接在 HarmonyOS Next 设备上搜索 **"ezBLE"** 进行下载，或者点击/扫描下方二维码：
 
-> *[https://appgallery.huawei.com/app/detail?id=ezBle.bnd.huawei&channelId=SHARE&source=appshare]*
-> *[![1451692653e24d53b3dc48c79dfddafe](https://github.com/user-attachments/assets/a79976d9-65b2-4ec1-be78-9efb61e293c1)]*
+<div align="center">
+
+<!-- 点击二维码也可跳转 -->
+<a href="https://appgallery.huawei.com/app/detail?id=ezBle.bnd.huawei&channelId=SHARE&source=appshare">
+  <img src="https://github.com/user-attachments/assets/a79976d9-65b2-4ec1-be78-9efb61e293c1" width="200" alt="AppGallery QR Code" />
+</a>
+
+<br>
+
+[👉 点击跳转网页版 (Click to Visit AppGallery)](https://appgallery.huawei.com/app/detail?id=ezBle.bnd.huawei&channelId=SHARE&source=appshare)
+
+</div>
 
 ---
 
@@ -64,8 +74,8 @@ Designed for embedded engineers, makers, and students, ezBLE offers a "What You 
 
 ## 💻 开发与贡献 (Development & Contribution)
 
-**ezBLE 是一个完全开源的项目，我们热烈欢迎您参与到源代码的编写中！**  
-**ezBLE is a fully open-source project, and we warmly welcome you to participate in the source code development!**
+**ezBLE 是一个开源项目，我们热烈欢迎您参与到源代码的编写中！**  
+**ezBLE is an open-source project, and we warmly welcome you to participate in the source code development!**
 
 本项目基于 **ArkTS** 和 **ArkUI** 开发。无论您是鸿蒙开发的初学者还是资深专家，这里都是您施展才华的平台。
 
@@ -87,10 +97,21 @@ Designed for embedded engineers, makers, and students, ezBLE offers a "What You 
 
 If you encounter any issues, please feel free to submit an [Issue](issues).
 
-## 📄 许可证 (License)
+---
 
-本项目遵循 [Apache-2.0 License](./LICENSE) 开源协议。
-This project is licensed under the [Apache-2.0 License](./LICENSE).
+## © 版权与许可 (License & Contact)
+
+### 🚫 关于商用 (Commercial Use)
+**本项目代码仅供个人学习、研究与技术交流使用。**
+**未经作者明确的书面许可，严禁将本项目代码（整体或部分）用于任何形式的商业用途**（包括但不限于付费上架、嵌入商业产品、企业内部商用等）。
+
+**The source code of this project is for personal learning, research, and technical communication only.**
+**Strictly NO commercial use (in whole or in part) is allowed without explicit written permission from the author.**
+
+### 📧 联系方式 (Contact)
+如需获取**商业授权 (Commercial Licensing)** 或有其他合作意向，请联系：
+
+Email: **Paradise_losts@163.com**  
 
 ---
 
