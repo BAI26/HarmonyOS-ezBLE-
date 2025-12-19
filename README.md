@@ -4,7 +4,6 @@
 
 <img width="150" height="150" alt="icon" src="https://github.com/user-attachments/assets/92b0a27a-0f09-4127-a5e6-90747d957ff0" />
 
-
 **让物联网 IoT 硬件调试更现代、更直观**  
 **Make IoT Hardware Debugging Modern & Intuitive**
 
@@ -79,17 +78,6 @@ Designed for embedded engineers, makers, and students, ezBLE offers a "What You 
 
 *   **Tech Stack**: HarmonyOS Next, ArkTS, ArkUI
 *   **We need help with**: New protocol support, UI/UX improvements, Localization, and Bug fixes.
-
----
-
-## 📸 截图预览 (Screenshots)
-
-| 连接管理 (Connection) | 示波器 (Oscilloscope) | 虚拟控台 (Console) |
-| :---: | :---: | :---: |
-| ![Connect](![1](https://github.com/user-attachments/assets/6bb44cf2-2006-4258-a9e9-188e606fb0af)) 
-| ![Scope](![2](https://github.com/user-attachments/assets/5b571eca-b04e-4a2e-b6ee-d433be716fd1))
-| ![Uploading 2.jpg…](![3](https://github.com/user-attachments/assets/dd191ff5-d98b-41c1-a760-74732d1d8572))
-
 
 ---
 
