@@ -38,8 +38,8 @@ Designed for embedded engineers, makers, and students, ezBLE offers a "What You 
 
 您可以直接在 HarmonyOS Next 设备上搜索 **"ezBLE"** 进行下载，体验最新功能。
 
-> *[在此处放置商店二维码或链接]*
-> *[Place AppGallery QR Code or Link Here]*
+> *[https://appgallery.huawei.com/app/detail?id=ezBle.bnd.huawei&channelId=SHARE&source=appshare]*
+> *[![1451692653e24d53b3dc48c79dfddafe](https://github.com/user-attachments/assets/a79976d9-65b2-4ec1-be78-9efb61e293c1)]*
 
 ---
 
@@ -86,7 +86,11 @@ Designed for embedded engineers, makers, and students, ezBLE offers a "What You 
 
 | 连接管理 (Connection) | 示波器 (Oscilloscope) | 虚拟控台 (Console) |
 | :---: | :---: | :---: |
-| ![Connect](https://via.placeholder.com/200x400?text=Connect) | ![Scope](https://via.placeholder.com/200x400?text=Scope) | ![Console](https://via.placeholder.com/200x400?text=Console) |
+| ![Connect](![1](https://github.com/user-attachments/assets/6bb44cf2-2006-4258-a9e9-188e606fb0af)
+) | ![Scope](![2](https://github.com/user-attachments/assets/5b571eca-b04e-4a2e-b6ee-d433be716fd1)
+)![Uploading 2.jpg…](![3](https://github.com/user-attachments/assets/dd191ff5-d98b-41c1-a760-74732d1d8572)
+)
+ | ![Console]() |
 <!-- 请替换为实际的应用截图链接 -->
 
 ---
